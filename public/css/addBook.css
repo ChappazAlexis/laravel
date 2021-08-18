@@ -1,0 +1,15 @@
+form {
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 3%;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgba(211, 211, 211, 0.623);
+}
+
+h1 {
+    margin: 0 auto;
+    width: 300px;
+    font-weight: bolder;
+    margin-bottom: 5%;
+}

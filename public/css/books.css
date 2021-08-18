@@ -1,0 +1,52 @@
+body{
+    background-image: url('https://cdn-elle.ladmedia.fr/var/plain_site/storage/images/loisirs/livres/news/ces-livres-qui-font-peur-pour-ne-pas-dormir-de-la-nuit/91133509-1-fre-FR/13-livres-qui-font-peur-pour-ne-pas-dormir-de-la-nuit.jpg');
+}
+
+h1 {
+    margin: 0 auto;
+    width: 300px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+}
+
+th {
+    text-align:center;
+    padding: 3px;
+    background-color:rgba(255, 255, 255, 0.705);
+    border: black 1px solid;
+}
+
+tr {
+    text-align: center;
+    padding: 3px;
+}
+
+td {
+    text-align: center;
+    background-color: rgba(211, 211, 211, 0.432);
+    border: black 1px solid;
+    padding: 3px;
+}
+
+table {
+    margin: 0 auto;
+    width: 600px;
+    border: rgb(255, 255, 255) 10px double;
+}
+
+.title {
+    text-decoration: underline;
+    color: white;
+}
+
+.title:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.synopsis {
+    height: 100px;
+    width: 300px;
+    font-style: italic;
+}
